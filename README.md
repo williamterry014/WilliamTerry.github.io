@@ -2,4 +2,4 @@
 
 ## This was created to show my budding skills using GitHub.
 
-### You can visit my GitHub page [here](WilliamTerry.github.io)
+## You can visit my GitHub page [here]([WilliamTerry.github.io](https://github.com/williamterry014))
